@@ -1,3 +1,3 @@
 module DataMapper
-  VERSION = '1.3.0.beta'.freeze
+  VERSION = '1.2.3'.freeze
 end
